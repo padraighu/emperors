@@ -79,15 +79,15 @@ In the `rise` column, an emporor's rise to power occurred in one of the followin
 
 Discrepancies will be listed in the `notes` column.
 
-### Data Augmentation in Forked Version
+## Data Augmentation in Forked Version
 
-## New columns added
+### New columns added
 
 * `birth.long` - Longitude of birthplace
 * `birth.lat` - Latitude of birthplace
 * `birth.cty.now` - Modern name of the birth city
 * `birth.state.now` - Modern state where the emperor was born
 
-## Typo
+### Typo
 
 Some text data had typos in the original dataset. The forked version corrected them, which were mainly in Emperor names and birth city names.
